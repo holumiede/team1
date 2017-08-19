@@ -28,7 +28,7 @@
                             <td data-title="ID">1</td>
                             <td data-title="Name">User 1</td>
                             <td data-title="Link">
-                                <a href="#" class="icon fa-github" target="_blank">GitHub</a>
+                                <a href="" class="icon fa-user" target="_blank"> My profile</a>
                             </td>
                             <td data-title="Status">Completed</td>
                         </tr>
@@ -36,7 +36,7 @@
                             <td data-title="ID">2</td>
                             <td data-title="Name">User 2</td>
                             <td data-title="Link">
-                                <a href="#" class="icon fa-github" target="_blank">Github</a>
+                                <a href="#" class="icon fa-user" target="_blank"> My profile</a>
                             </td>
                             <td data-title="Status">Completed</td>
                         </tr>
@@ -44,21 +44,21 @@
                             <td data-title="ID">3</td>
                             <td data-title="Name">User 3</td>
                             <td data-title="Link">
-                                <a href="#" class="icon fa-github" class="icon fa-github" target="_blank">GitHub</a>
+                                <a href="#" class="icon fa-user" class="icon fa-user" target="_blank"> My profile</a>
                             </td>
                             <td data-title="Status">Completed</td>
                         </tr>
                         <tr>
                             <td data-title="ID">4</td>
                             <td data-title="Name">User 4</td>
-                            <td data-title="Link"><a href="#" class="icon fa-github" target="_blank">Github</a></td>
+                            <td data-title="Link"><a href="#" class="icon fa-user" target="_blank"> My profile</a></td>
                             <td data-title="Status">Completed</td>
                         </tr>
                         <tr>
                             <td data-title="ID">5</td>
                             <td data-title="Name">User 5</td>
                             <td data-title="Link">
-                                <a href="#" class="icon fa-github" target="_blank">Github</a>
+                                <a href="#" class="icon fa-user" target="_blank"> My profile</a>
                             </td>
                             <td data-title="Status">Completed</td>
                         </tr>
@@ -66,7 +66,7 @@
                             <td data-title="ID">6</td>
                             <td data-title="Name">User 6</td>
                             <td data-title="Link">
-                                <a href="#" class="icon fa-github" target="_blank">Github</a>
+                                <a href="#" class="icon fa-user" target="_blank"> My profile</a>
                             </td>
                             <td data-title="Status">Completed</td>
                         </tr>
@@ -74,7 +74,7 @@
                             <td data-title="ID">7</td>
                             <td data-title="Name">User 7</td>
                             <td data-title="Link">
-                                <a href="#" class="icon fa-github" target="_blank">Github</a>
+                                <a href="#" class="icon fa-user" target="_blank"> My profile</a>
                             </td>
                             <td data-title="Status">Completed</td>
                         </tr>
@@ -82,7 +82,7 @@
                             <td data-title="ID">8</td>
                             <td data-title="Name">User 8</td>
                             <td data-title="Link">
-                                <a href="#" class="icon fa-github" target="_blank">Github</a>
+                                <a href="#" class="icon fa-user" target="_blank"> My profile</a>
                             </td>
                             <td data-title="Status">Completed</td>
                         </tr>
@@ -90,7 +90,7 @@
                             <td data-title="ID">9</td>
                             <td data-title="Name">User 9</td>
                             <td data-title="Link">
-                                <a href="#" class="icon fa-github" target="_blank">Github</a>
+                                <a href="#" class="icon fa-user" target="_blank"> My profile</a>
                             </td>
                             <td data-title="Status">Completed</td>
                         </tr>
@@ -98,10 +98,17 @@
                             <td data-title="ID">10</td>
                             <td data-title="Name">User 10</td>
                             <td data-title="Link">
-                                <a href="#" class="icon fa-github" target="_blank">Github</a>
+                                <a href="#" class="icon fa-user" target="_blank"> My profile</a>
                             </td>
                             <td data-title="Status">Completed</td>
                         </tr>
+                        <!-- Nice Jobe bro!!! -->
+                        <!-- ******************************* -->
+                        <!-- MAYBE WE SHOULD ADD A COMMENT LIKE THIS -->
+                        <!-- Please use the above format to add you name and link to the page -->
+                        <!-- ADD IT ABOVE THIS COMMENT -->
+                        <!-- something like that sha, so that people wont go and be adding their name outside the table and spoil your work -->
+                        <!-- ****************************** -->
                     </tbody>
                 </table>
             </div>
@@ -111,5 +118,4 @@
         </div>
 
         </body>
-
-        </html>
+        <?php include ('footer.php'); ?>
