@@ -37,14 +37,30 @@
             <tbody>
 
                 <!--       Participants should copy from here        -->
+
                 <tr>
 
                     <td><img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="">Emmanuel Joseph</td>
                     <td>Team 3</td>
-                    <td><a href="https://hng.fun/jekayode.html">@jekayode</a></td>
+                    <td><a href="#">@jekayode</a></td>
                 </tr>
 
-                <!--        Participants should stop here (Paste to the bottom of the table and add your name)        -->
+                <!--        Participants should stop here (Paste to the bottom of the table and add your name)    -->
+
+
+
+
+
+                <!--
+              GUIDELINES FOR ADDING DETAILS TO PARTICIPANTS TABLE
+              -  Coping the codes in the code block above (Do not copy the code block)
+              - Replace the placeholder(The text which are enclosed with hashtags i.e #...#) with your details
+              - Your image should be stored in the image folder of the repo
+              - If you do not have an available image, use the default image, using the link 'https://bootdey.com/img/Content/avatar/avatar1.png'
+              - Make sure you do not modify information of other participants
+              - Pull the repo, before pushing it, inorder to prevent conflicts
+              - Thank you and God bless.
+            -->
 
                 <tr>
 
