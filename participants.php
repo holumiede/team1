@@ -1,121 +1,58 @@
-<?php include "header.php" ?>
+<?php include ('header.php'); ?>
+<div id="banner-content" class="row clearfix">
 
-<div id="demo">
-    <div id="demo">
-        <h1 style="color:white;">Participants</h1>
+    <div class="col-38">
 
-
-        <!-- Responsive table starts here -->
-        <!-- For correct display on small screens you must add 'data-title' to each 'td' in your table -->
-        <div class="table-responsive-vertical shadow-z-1">
-
-
-            <!-- Responsive table starts here -->
-            <!-- For correct display on small screens you must add 'data-title' to each 'td' in your table -->
-            <div class="table-responsive-vertical shadow-z-1">
-                <!-- Table starts here -->
-                <table id="table" class="table table-hover table-mc-light-blue">
-                    <thead>
-                        <tr>
-                            <th>ID</th>
-                            <th>Name</th>
-                            <th>Link</th>
-                            <th>Status</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td data-title="ID">1</td>
-                            <td data-title="Name">User 1</td>
-                            <td data-title="Link">
-                                <a href="" class="icon fa-user" target="_blank"> My profile</a>
-                            </td>
-                            <td data-title="Status">Completed</td>
-                        </tr>
-                        <tr>
-                            <td data-title="ID">2</td>
-                            <td data-title="Name">User 2</td>
-                            <td data-title="Link">
-                                <a href="#" class="icon fa-user" target="_blank"> My profile</a>
-                            </td>
-                            <td data-title="Status">Completed</td>
-                        </tr>
-                        <tr>
-                            <td data-title="ID">3</td>
-                            <td data-title="Name">User 3</td>
-                            <td data-title="Link">
-                                <a href="#" class="icon fa-user" class="icon fa-user" target="_blank"> My profile</a>
-                            </td>
-                            <td data-title="Status">Completed</td>
-                        </tr>
-                        <tr>
-                            <td data-title="ID">4</td>
-                            <td data-title="Name">User 4</td>
-                            <td data-title="Link"><a href="#" class="icon fa-user" target="_blank"> My profile</a></td>
-                            <td data-title="Status">Completed</td>
-                        </tr>
-                        <tr>
-                            <td data-title="ID">5</td>
-                            <td data-title="Name">User 5</td>
-                            <td data-title="Link">
-                                <a href="#" class="icon fa-user" target="_blank"> My profile</a>
-                            </td>
-                            <td data-title="Status">Completed</td>
-                        </tr>
-                        <tr>
-                            <td data-title="ID">6</td>
-                            <td data-title="Name">User 6</td>
-                            <td data-title="Link">
-                                <a href="#" class="icon fa-user" target="_blank"> My profile</a>
-                            </td>
-                            <td data-title="Status">Completed</td>
-                        </tr>
-                        <tr>
-                            <td data-title="ID">7</td>
-                            <td data-title="Name">User 7</td>
-                            <td data-title="Link">
-                                <a href="#" class="icon fa-user" target="_blank"> My profile</a>
-                            </td>
-                            <td data-title="Status">Completed</td>
-                        </tr>
-                        <tr>
-                            <td data-title="ID">8</td>
-                            <td data-title="Name">User 8</td>
-                            <td data-title="Link">
-                                <a href="#" class="icon fa-user" target="_blank"> My profile</a>
-                            </td>
-                            <td data-title="Status">Completed</td>
-                        </tr>
-                        <tr>
-                            <td data-title="ID">9</td>
-                            <td data-title="Name">User 9</td>
-                            <td data-title="Link">
-                                <a href="#" class="icon fa-user" target="_blank"> My profile</a>
-                            </td>
-                            <td data-title="Status">Completed</td>
-                        </tr>
-                        <tr>
-                            <td data-title="ID">10</td>
-                            <td data-title="Name">User 10</td>
-                            <td data-title="Link">
-                                <a href="#" class="icon fa-user" target="_blank"> My profile</a>
-                            </td>
-                            <td data-title="Status">Completed</td>
-                        </tr>
-                        <!-- Nice Jobe bro!!! -->
-                        <!-- ******************************* -->
-                        <!-- MAYBE WE SHOULD ADD A COMMENT LIKE THIS -->
-                        <!-- Please use the above format to add you name and link to the page -->
-                        <!-- ADD IT ABOVE THIS COMMENT -->
-                        <!-- something like that sha, so that people wont go and be adding their name outside the table and spoil your work -->
-                        <!-- ****************************** -->
-                    </tbody>
-                </table>
-            </div>
-
-
-
+        <div class="section-heading participants">
+            <h1>Participants Page</h1>
         </div>
 
-        </body>
-        <?php include ('footer.php'); ?>
+       
+
+    </div>
+
+</div><!--End of Row-->
+</header>
+
+    <div class="body">
+                    <!-- Table starts here -->
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>ID</th>
+                                <th>Name</th>
+                                <th>Link to profile</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>1</td>
+                                <td>1st user</td>
+                                <td>
+                                    <a href="./profile/ogbeniore.html"> ogbeniore's profile</a>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>2</td>
+                                <td>Ojo Oreoluwa</td>
+                                <td>
+                                    <a href="./profile/ogbeniore.html"> ogbeniore's profile</a>
+                                </td>
+                            </tr><tr>
+                                <td>3</td>
+                                <td>Ojo Oreoluwa</td>
+                                <td>
+                                    <a href="./profile/ogbeniore.html"> ogbeniore's profile</a>
+                                </td>
+                            </tr><tr>
+                                <td>4</td>
+                                <td>Ojo Oreoluwa</td>
+                                <td>
+                                    <a href="./profile/ogbeniore.html"> ogbeniore's profile</a>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+        </div>
+<?php include ('footer.php'); ?>
