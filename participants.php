@@ -3,6 +3,9 @@
 ?>
 <!DOCTYPE html>
 <html>
+<header id="part-header" style="background-image: url(/images/participants/participants.jpg)">
+
+</header>
 
 <body>
     <div id="banner-content" class="row clearfix">
@@ -23,84 +26,50 @@
 
     <div class="body">
         <!-- Table starts here -->
-        <table class="table">
+        <table class="table user-list">
             <thead>
                 <tr>
-                    <th>ID</th>
-                    <th>Name</th>
-                    <th>Link to profile</th>
+                    <!--                    <th><span><i class="fa fa-camera"></i>Profile</span></th>-->
+                    <th><span><i class="fa fa-user"></i>User</span></th>
+                    <th><span><i class="fa fa-group"></i>Team</span></th>
+                    <th><span><i class="fa fa-globe"></i>Profile Link</span></th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td>1</td>
-                    <td>1st user</td>
-                    <td>
-                        <a href="./profile/ogbeniore.html" class="icon fa-user"> ogbeniore's profile</a>
-                    </td>
+
+                    <td><img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="">Emmanuel Joseph</td>
+                    <td>Team 3</td>
+                    <td><a href="https://hng.fun/jekayode.html">@jekayode</a></td>
                 </tr>
                 <tr>
-                    <td>2</td>
-                    <td>Osideinde Oluwadara</td>
-                    <td>
-                        <a href="./profile/holumiede.html" class="icon fa-user"> ogbeniore's profile</a>
-                    </td>
+
+                    <td><img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="">Oreoluwa Ojo</td>
+                    <td>Team 3</td>
+                    <td><a href="https://hng.fun/ogbeniore.html">@ogbeniore</a></td>
                 </tr>
                 <tr>
-                    <td>3</td>
-                    <td>Ojo Oreoluwa</td>
-                    <td>
-                        <a href="./profile/ogbeniore.html" class="icon fa-user"> ogbeniore's profile</a>
-                    </td>
+
+                    <td><img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="">Emmanuel Joseph</td>
+                    <td>Team 3</td>
+                    <td><a href="https://hng.fun/jekayode.html">@jekayode</a></td>
                 </tr>
                 <tr>
-                    <td>4</td>
-                    <td>Ojo Oreoluwa</td>
-                    <td>
-                        <a href="./profile/ogbeniore.html" class="icon fa-user"> ogbeniore's profile</a>
-                    </td>
+
+                    <td><img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="">Oreoluwa Ojo</td>
+                    <td>Team 3</td>
+                    <td><a href="https://hng.fun/ogbeniore.html">@ogbeniore</a></td>
                 </tr>
                 <tr>
-                    <td>5</td>
-                    <td>o Oreoluwa</td>
-                    <td>
-                        <a href="./profile/ogbeniore.html" class="icon fa-user"> ogbeniore's profile</a>
-                    </td>
+
+                    <td><img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="">Emmanuel Joseph</td>
+                    <td>Team 3</td>
+                    <td><a href="https://hng.fun/jekayode.html">@jekayode</a></td>
                 </tr>
                 <tr>
-                    <td>6</td>
-                    <td>Ojo Oreoluwa</td>
-                    <td>
-                        <a href="./profile/ogbeniore.html" class="icon fa-user"> ogbeniore's profile</a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>7</td>
-                    <td>Ojo Oreoluwa</td>
-                    <td>
-                        <a href="./profile/ogbeniore.html" class="icon fa-user"> ogbeniore's profile</a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>8</td>
-                    <td>Ojo Oreoluwa</td>
-                    <td>
-                        <a href="./profile/ogbeniore.html" class="icon fa-user"> ogbeniore's profile</a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>9</td>
-                    <td>Ojo Oreoluwa</td>
-                    <td>
-                        <a href="./profile/ogbeniore.html" class="icon fa-user"> ogbeniore's profile</a>
-                    </td>
-                </tr>
-                <tr>
-                    <td>10</td>
-                    <td>Ojo Oreoluwa</td>
-                    <td>
-                        <a href="./profile/ogbeniore.html" class="icon fa-user"> ogbeniore's profile</a>
-                    </td>
+                    <td><img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="">Oreoluwa Ojo</td>
+                    <td>Team 3</td>
+                    <td><a href="https://hng.fun/ogbeniore.html">@ogbeniore</a></td>
                 </tr>
             </tbody>
         </table>
