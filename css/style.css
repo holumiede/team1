@@ -880,11 +880,13 @@ div.body {
 /************************/
 
 .table {
-    width: 100%;
+    width: 80%;
     max-width: 100%;
     margin-bottom: 2rem;
     background-color: #fff;
     border-collapse: separate;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .table>tbody>tr>td>img {

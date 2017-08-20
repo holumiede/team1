@@ -1,8 +1,7 @@
 <?php 
     include 'header.php';
 ?>
-<!DOCTYPE html>
-<html>
+
 <header id="part-header" style="background-image: url(/images/participants/participants.jpg)">
 
 </header>
@@ -30,18 +29,23 @@
             <thead>
                 <tr>
                     <!--                    <th><span><i class="fa fa-camera"></i>Profile</span></th>-->
-                    <th><span><i class="fa fa-user"></i>User</span></th>
+                    <th><span><i class="fa fa-user"></i>Participant</span></th>
                     <th><span><i class="fa fa-group"></i>Team</span></th>
                     <th><span><i class="fa fa-globe"></i>Profile Link</span></th>
                 </tr>
             </thead>
             <tbody>
+
+                <!--       Participants should copy from here        -->
                 <tr>
 
                     <td><img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="">Emmanuel Joseph</td>
                     <td>Team 3</td>
                     <td><a href="https://hng.fun/jekayode.html">@jekayode</a></td>
                 </tr>
+
+                <!--        Participants should stop here (Paste to the bottom of the table and add your name)        -->
+
                 <tr>
 
                     <td><img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt="">Oreoluwa Ojo</td>
@@ -77,4 +81,7 @@
     </div>
 </body>
 
-</html>
+
+<?php 
+    include 'footer.php';
+?>
