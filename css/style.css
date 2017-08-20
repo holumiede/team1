@@ -884,6 +884,11 @@ div.body {
     max-width: 100%;
     margin-bottom: 2rem;
     background-color: #fff;
+    border-collapse: separate;
+}
+
+.table>tbody>tr>td>img {
+    max-width: 50px !important;
 }
 
 .table>thead>tr>th,
